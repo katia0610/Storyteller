@@ -35,7 +35,7 @@ AI Storyteller
 3. **Add your LLM API key** in a `.env` file:
 
    ```
-   API_KEY=your_openai_or_groq_key
+   API_KEY=your_huggingface_or_groq_key
    ```
 
 ## ▶️ Run the app
