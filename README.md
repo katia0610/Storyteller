@@ -59,8 +59,8 @@ The model uses **instruction tuning** and carefully crafted prompts to guide the
 ```
 .
 ├── app.py               # Streamlit app
+├── constants.py         # Stores API keys and global constants
 ├── prompts.py           # Prompt templates
-├── utils.py             # Helper functions
 ├── requirements.txt     # Dependencies
 └── README.md            # You're here!
 ```
